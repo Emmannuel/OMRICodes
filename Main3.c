@@ -1,6 +1,7 @@
+/* Problema 3 - Piedra, Papel o Tijeras*/
 #include <stdio.h>
 
-int main() {
+int main3() {
     int n, a, b;
     int puntosMartontito = 0;
     int puntosFlix = 0;
