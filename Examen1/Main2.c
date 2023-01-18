@@ -1,6 +1,7 @@
+/* Problema 2 -  Bolsas de Ropa Vieja*/
 #include <stdio.h>
 
-int main() {
+int main2() {
     int bolsas[6];
     int bolsa1 = 0;
     int bolsa2 = 0;
